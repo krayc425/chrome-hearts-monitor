@@ -53,7 +53,7 @@ jobs:
         shell: bash
         run: |
           mode="${{ github.event.inputs.mode || 'monitor' }}"
-          if [ "$mode" = "test_bark" ]; then
+          if [ "$mode" = "test_bark" ] || [ "${{ github.event_name }}" = "push" ]; then
             python monitor.py --test-bark
           elif [ "$mode" = "rebuild_baseline" ]; then
             python monitor.py --reset-baseline
