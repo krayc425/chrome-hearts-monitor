@@ -420,12 +420,12 @@
       "variants": []
     },
     "177733CRYXXX042": {
-      "available": true,
+      "available": false,
       "category": "Baccarat",
       "first_seen_at": "2026-07-16T06:48:32Z",
       "id": "177733CRYXXX042",
       "image": "https://www.chromehearts.com/dw/image/v2/BFBV_PRD/on/demandware.static/-/Sites-ch-master-catalog/default/dwf379530c/img_products/hi-res/503177733CRYXXX042_0649.png?sw=600&sh=750",
-      "last_changed_at": "2026-07-16T06:48:32Z",
+      "last_changed_at": "2026-07-21T17:07:55Z",
       "name": "WINE",
       "present": true,
       "price": "2200",
