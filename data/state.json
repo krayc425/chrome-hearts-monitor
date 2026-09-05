@@ -605,12 +605,12 @@
       "variants": []
     },
     "201635AFWXXX033": {
-      "available": false,
+      "available": true,
       "category": "INTIMATES",
       "first_seen_at": "2026-07-16T06:48:32Z",
       "id": "201635AFWXXX033",
       "image": "https://www.chromehearts.com/dw/image/v2/BFBV_PRD/on/demandware.static/-/Sites-ch-master-catalog/default/dw70611c73/img_products/hi-res/201635AFWXXX033-n1.png?sw=600&sh=750",
-      "last_changed_at": "2026-09-05T10:44:23Z",
+      "last_changed_at": "2026-09-05T13:34:17Z",
       "name": "LACE THONG",
       "present": true,
       "price": "275",
